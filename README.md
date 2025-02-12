@@ -1,7 +1,5 @@
 # Hi there, I'm Meraj Alam! 👋
 
-![Profile Banner](https://github.com/marvickps/marvickps/blob/main/banner.png)  
-
 ## 🚀 About Me
 Aspiring Full-Stack Developer with a passion for building scalable web applications. Seeking opportunities to leverage my technical and problem-solving skills in a dynamic IT environment to drive impactful outcomes and organizational growth.
 
