@@ -6,4 +6,4 @@ Building mobile apps, web platforms, and anything that solves real problems. Alw
 
 📫 **Let's connect:** [LinkedIn](https://linkedin.com/in/merajalam2001) | [Email](mailto:alamm1940@gmail.com)
 
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=marvickps&theme=react-dark&custom_title=Monthly%20Contributions&area=true&point=hide)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marvickps&theme=dark)
