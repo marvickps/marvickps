@@ -4,6 +4,6 @@ Full-stack dev who loves building stuff with **Flutter**, **React**, and **Pytho
 
 Building mobile apps, web platforms, and anything that solves real problems. Always down to collaborate on cool projects!
 
-📫 **Let's connect:** [LinkedIn](https://linkedin.com/in/merajalam2001) | [Email](mailto:alamm1940@gmail.com): alamm1940@gmail.com
+📫 **Let's connect:** [LinkedIn](https://linkedin.com/in/merajalam2001) | [Email](mailto:alamm1940@gmail.com)
 
 
